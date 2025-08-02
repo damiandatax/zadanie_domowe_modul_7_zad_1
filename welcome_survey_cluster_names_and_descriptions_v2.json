@@ -1,0 +1,35 @@
+{
+  "Cluster 0": {
+    "name": "🌿 Odkrywcy natury",
+    "description": "Osoby, które kochają zwierzęta 🐾 i spędzanie czasu na łonie natury 🌳. Zwykle są empatyczne i spokojne 😌."
+  },
+  "Cluster 1": {
+    "name": "🏙️ Miejsko-aktywni",
+    "description": "Lubią miejskie życie 🏢, wydarzenia kulturalne 🎭 i poznawanie nowych ludzi 🧑‍🤝‍🧑. Cenią sobie aktywność i różnorodność 🎉."
+  },
+  "Cluster 2": {
+    "name": "🏠 Domatorzy z pasją",
+    "description": "Wolą spokojniejsze środowiska 🛋️ i komfort ☕. Często interesują się sztuką 🎨, literaturą 📚 lub rękodziełem ✂️."
+  },
+  "Cluster 3": {
+    "name": "💪 Sportowi indywidualiści",
+    "description": "Aktywni fizycznie 🏃‍♂️, ale ceniący samotność 🤫 i skupienie 🎯. Dużą wagę przykładają do samorozwoju 📈."
+  },
+  "Cluster 4": {
+    "name": "🎉 Społeczni entuzjaści",
+    "description": "Osoby ekstrawertyczne 🗣️, które czują się najlepiej w grupie 👯‍♀️. Uwielbiają imprezy 🕺, gry zespołowe 🏀 i wspólne wyjazdy 🚐."
+  },
+  "Cluster 5": {
+    "name": "🌍 Podróżnicy marzyciele",
+    "description": "Osoby z wyobraźnią 🌠, które kochają podróże ✈️ – realne i w wyobraźni 💭. Często inspirują innych ✨."
+  },
+  "Cluster 6": {
+    "name": "🖥️ Technologiczni introwertycy",
+    "description": "Spokojni 🧘, często introwertyczni 🙈, ale świetnie odnajdujący się w świecie technologii 💻 i gier 🎮."
+  },
+  "Cluster 7": {
+    "name": "🧭 Samotni poszukiwacze",
+    "description": "Są na etapie szukania swojej społeczności 🔍. Otwarta postawa 🌟, ale jeszcze nieodkryta ścieżka 🛤️."
+  }
+}
+
